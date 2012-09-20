@@ -1,0 +1,16 @@
+Material My Material : MatDefs/LightBlow/LightBlow.j3md {
+     MaterialParameters {
+        Toon : false
+        LATC : false
+        LightMap_G : false
+        LightMap_B : false
+        NORMAL_PARALLAX : false
+        VTangent : false
+        HighQuality : false
+        WardIso : false
+        UseMaterialColors : false
+        DiffuseMap : Textures/Water256.dds
+     }
+    AdditionalRenderState {
+    }
+}

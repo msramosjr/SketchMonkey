@@ -1,0 +1,24 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Textures/Simple_IBL/basic_wood_01.jpg
+        VTangent : false
+        HighQuality : false
+        LATC : false
+        UseAlpha : false
+        VertexLighting : false
+        Minnaert : false
+        UseVertexColor : false
+        SteepParallax : false
+        UseMaterialColors : false
+        PackedNormalParallax : false
+        EnvMapAsSphereMap : false
+        SeparateTexCoord : false
+        LowQuality : false
+        WardIso : false
+     }
+    AdditionalRenderState {
+      Wireframe Off
+      FaceCull Off
+        Blend Off
+    }
+}

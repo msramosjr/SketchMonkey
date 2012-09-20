@@ -1,0 +1,7 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        ColorRamp : Textures/matcaps/met2.png
+     }
+    AdditionalRenderState {
+    }
+}
